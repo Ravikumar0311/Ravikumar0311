@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ravikumar L</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
 
