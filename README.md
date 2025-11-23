@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravikumar L</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
-<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0d85ff660f2715a237b64f08f1dba79bd3797d29fa4fcc9cf72025d9edc9fcf3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6179757368373134266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/0d85ff660f2715a237b64f08f1dba79bd3797d29fa4fcc9cf72025d9edc9fcf3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6179757368373134266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Ravikumar03211" data-canonical-src="https://komarev.com/ghpvc/?username=Ravikumar0311_1&label=Profile%20views&color=0e75b6&style=flat" style="max-width: 100%;"></a> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ravikumar0311-0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 <h2>skills</h2>
