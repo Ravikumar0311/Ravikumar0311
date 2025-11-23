@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravikumar L</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ravikumar0311-0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ravikumar0311-0&label=Profile%20views&color=0e75b6&style=flat&cache_seconds=86400" alt="Profile views"/>
 </p>
 
 <h2>skills</h2>
